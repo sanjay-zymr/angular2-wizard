@@ -1,6 +1,7 @@
 {
   "name": "angular2-wizard",
   "version": "0.3.0",
+  "typings": "./dist/index.d.ts",
   "scripts": {
     "build": "ngc -p tsconfig.json",
     "lint": "tslint src/**/*.ts",
